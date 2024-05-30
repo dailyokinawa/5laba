@@ -1,0 +1,15 @@
+"use strict";
+
+class Employee {
+
+}
+
+let employee = new Employee;
+
+employee.name = 'wick'
+employee.age = '18'
+employee.salary = '50000'
+
+console.log(employee.name);
+console.log(employee.age);
+console.log(employee.salary);
